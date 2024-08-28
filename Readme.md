@@ -4,9 +4,26 @@
 
 This repository contains the code and dataset used for the paper **"Can LLMs Substitute SQL? Comparing Resource Utilization of Querying LLMs versus Traditional Relational Databases"** by **Xiang Zhang, Khatoon Khedri, and Reza Rawassizadeh**. The study evaluates the resource utilization and accuracy of large language models (LLMs) in interpreting and executing natural language queries compared to traditional SQL within relational database management systems.
 
-### Citation
-If you use this code or dataset in your research, please cite the paper:
-Xiang Zhang, Khatoon Khedri, and Reza Rawassizadeh. 2024. Can LLMs substitute SQL? Comparing Resource Utilization of Querying LLMs versus Traditional Relational Databases. In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 4: Student Research Workshop), pages 34–41, Bangkok, Thailand. Association for Computational Linguistics.
+## Citation
+
+If you use this code or dataset in your research, please cite our paper:
+
+**APA Format:**
+
+Xiang Zhang, Khatoon Khedri, and Reza Rawassizadeh. 2024. Can LLMs substitute SQL? Comparing Resource Utilization of Querying LLMs versus Traditional Relational Databases. In *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 4: Student Research Workshop)*, pages 34–41, Bangkok, Thailand. Association for Computational Linguistics.
+
+**BibTeX:**
+
+```bibtex
+@inproceedings{Zhang2024LLMvsSQL,
+  title={Can LLMs substitute SQL? Comparing Resource Utilization of Querying LLMs versus Traditional Relational Databases},
+  author={Xiang Zhang and Khatoon Khedri and Reza Rawassizadeh},
+  booktitle={Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 4: Student Research Workshop)},
+  year={2024},
+  pages={34--41},
+  address={Bangkok, Thailand},
+  publisher={Association for Computational Linguistics}
+}
 
 ## Contents
 
