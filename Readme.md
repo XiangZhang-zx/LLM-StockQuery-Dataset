@@ -24,6 +24,7 @@ Xiang Zhang, Khatoon Khedri, and Reza Rawassizadeh. 2024. Can LLMs substitute SQ
   address={Bangkok, Thailand},
   publisher={Association for Computational Linguistics}
 }
+```
 
 ## Contents
 
